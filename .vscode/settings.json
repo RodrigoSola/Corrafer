@@ -1,0 +1,6 @@
+{
+    "bitoAI.codeCompletion.enableAutoCompletion": false,
+    "workbench.editor.autoLockGroups": {
+        "default": true
+    }
+}
