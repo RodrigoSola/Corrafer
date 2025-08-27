@@ -42,7 +42,7 @@ const clientsSchema = new Schema({
   },
   typeOfClient: {
     type: String,
-    clientEnum: ["RI", "EX"],
+    clientEnum: ["RI", "EX","MONOTRIBUTO", "CF"],
   },
   owesDebt: {
     type: Boolean,
